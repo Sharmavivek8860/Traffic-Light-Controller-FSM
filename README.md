@@ -1,4 +1,4 @@
-#🚦 Traffic Light Controller
+# 🚦 Traffic Light Controller
 
 ## Overview
 A traffic light controller designed with FSM in Verilog HDL. Implements traffic control logic with configurable timing cycles.
